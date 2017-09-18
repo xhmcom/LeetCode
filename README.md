@@ -35,10 +35,17 @@ My code on LeetCode
 
 * * *
 
-### No. 16 problem: 3SumClosest
-[link](https://leetcode.com/problems/3sum-closest/description/)
+### No. 16 problem: 3Sum Closest
+[Link](https://leetcode.com/problems/3sum-closest/description/)
 
 和上一题的思路一样
+
+* * *
+
+### No. 19 problem: Remove Nth Node From End of List
+[Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+
+简单的链表问题
 
 * * *
 
