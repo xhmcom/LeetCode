@@ -35,6 +35,13 @@ My code on LeetCode
 
 * * *
 
+### No. 16 problem: 3SumClosest
+[link](https://leetcode.com/problems/3sum-closest/description/)
+
+和上一题的思路一样
+
+* * *
+
 ### No. 665 problem: Non-decreasing Array
 [Link](https://leetcode.com/problems/non-decreasing-array/description/)
 
