@@ -57,6 +57,20 @@ My code on LeetCode
 
 ***
 
+### No. 24 problem: Swap Nodes in Pairs
+[Link](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+
+简单的链表处理
+
+***
+
+### No. 25 problem: Reverse Nodes in k-Group
+[Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+
+比上一题复杂一些的链表，思路就是遍历k的转换范围内的链表，每一个依次移到这段链表的头部就行了。
+
+***
+
 ### No. 665 problem: Non-decreasing Array
 [Link](https://leetcode.com/problems/non-decreasing-array/description/)
 
