@@ -67,7 +67,21 @@ My code on LeetCode
 ### No. 25 problem: Reverse Nodes in k-Group
 [Link](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
 
-比上一题复杂一些的链表，思路就是遍历k的转换范围内的链表，每一个依次移到这段链表的头部就行了。
+比上一题复杂一些的链表，思路就是遍历k的转换范围内的链表，每一个结点依次移到这段链表的头部就行了。
+
+***
+
+### No. 30 problem: Substring with Concatenation of All Words
+[Link](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+
+用最普通的字符串遍历方式，复杂度是0(words*s)，TLE了，需要更快的算法。
+
+***
+
+### No. 31 problem: Next Permutation
+[Link](https://leetcode.com/problems/next-permutation/description/)
+
+找到下一个排列的规律就可以了，注意考虑重复数字的情况。
 
 ***
 
