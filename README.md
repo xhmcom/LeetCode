@@ -85,6 +85,14 @@ My code on LeetCode
 
 ***
 
+### No. 32 Longest Valid Parentheses
+[Link](https://leetcode.com/problems/longest-valid-parentheses/description/)
+
+处理括号对齐的问题，一看就是用栈操作，但是开始没有找到好的统计匹配子串的方法。
+看了题解，其实方法很简单，栈内保存括号的index就行了，遍历一遍之后栈内剩下的index之间差值就是匹配子串长度。
+
+***
+
 ### No. 665 problem: Non-decreasing Array
 [Link](https://leetcode.com/problems/non-decreasing-array/description/)
 
